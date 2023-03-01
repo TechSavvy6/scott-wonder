@@ -1,12 +1,12 @@
 import emoji from 'react-easy-emoji';
 
 export const greetings = {
-  name: 'Hanzla Tauqeer',
-  title: "Hi all, I'm Hanzla",
+  name: 'Scott Miller',
+  title: "Hi all, I'm Scott Miller",
   description:
     "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    'https://scott-cv.pages.dev/resume.pdf',
 };
 
 export const openSource = {
@@ -16,12 +16,9 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
-  instagram: 'https://www.instagram.com/__hanzla100',
-  facebook: 'https://www.facebook.com/1hanzla100',
-  twitter: 'https://twitter.com/1hanzla100',
+  url: 'https://scott-cv.pages.dev/',
+  linkedin: 'https://www.linkedin.com/in/scott-miller-pro',
+  github: 'https://github.com/DevScottMiller',
 };
 
 export const skillsSection = {
@@ -199,7 +196,7 @@ export const SkillBars = [
 
 export const educationInfo = [
   {
-    schoolName: 'Harvard University',
+    schoolName: 'Vancouver University',
     subHeader: 'Master of Science in Computer Science',
     duration: 'September 2017 - April 2019',
     desc: 'Participated in the research of XXX and published 3 papers.',
