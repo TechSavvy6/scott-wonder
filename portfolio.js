@@ -285,19 +285,19 @@ export const showContactUs = true;
 
 // See object prototype on SEO.jsx page
 export const seoData = {
-  title: 'Hanzla Tauqeer',
+  title: 'Scott Miller',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
+  author: 'Scott Miller',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  url: 'https://scott-wonder.vercel.app/',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
+    'Scott',
+    'Scott Miller',
     '@1hanzla100',
     '1hanzla100',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Scott Portfolio ',
+    'Scott Miller Portfolio',
   ],
 };
