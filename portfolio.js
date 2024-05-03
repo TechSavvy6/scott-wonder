@@ -1,8 +1,8 @@
 import emoji from 'react-easy-emoji';
 
 export const greetings = {
-  name: 'Shaming Pai',
-  title: "Hi all, I'm Shaming Pai",
+  name: 'Scott Miller',
+  title: "Hi all, I'm Scott Miller",
   description:
     "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
   resumeLink:
@@ -10,7 +10,7 @@ export const greetings = {
 };
 
 export const openSource = {
-  githubUserName: 'DevScottMiller',
+  githubUserName: 'techsavvy6',
 };
 
 export const contact = {};
@@ -18,7 +18,7 @@ export const contact = {};
 export const socialLinks = {
   url: 'https://scott-cv.pages.dev/',
   linkedin: 'https://www.linkedin.com/in/scott-miller-pro',
-  github: 'https://github.com/DevScottMiller',
+  github: 'https://github.com/techsavvy6',
 };
 
 export const skillsSection = {
@@ -247,23 +247,23 @@ export const projects = [
   {
     name: 'scott-wonder',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/DevScottMiller/scott-wonder',
+    github: 'https://github.com/techsavvy6/scott-wonder',
     link: 'https://scott-wonder.vercel.app/',
   },
   {
     name: 'AtlasMart',
     desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
-    github: 'https://github.com/DevScottMiller/Django-React-Marketplace',
+    github: 'https://github.com/techsavvy6/Django-React-Marketplace',
   },
   {
     name: 'Technota (Forum)',
     desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/DevScottMiller/django-react-forum',
+    github: 'https://github.com/techsavvy6/django-react-forum',
   },
   {
     name: 'Shopaza (Ecommerce)',
     desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/DevScottMiller/Django-ecommerce',
+    github: 'https://github.com/techsavvy6/Django-ecommerce',
   },
 ];
 
@@ -285,17 +285,17 @@ export const showContactUs = true;
 
 // See object prototype on SEO.jsx page
 export const seoData = {
-  title: 'Shaming Pai',
+  title: 'Scott Miller',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Shaming Pai',
+  author: 'Scott Miller',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
   url: 'https://scott-wonder.vercel.app/',
   keywords: [
     'Scott',
-    'Shaming Pai',
+    'Scott Miller',
     'Portfolio',
     'Scott Portfolio ',
-    'Shaming Pai Portfolio',
+    'Scott Miller Portfolio',
   ],
 };
