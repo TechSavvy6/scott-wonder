@@ -109,7 +109,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Scott Miller**
+👤 **Shaming Pai**
 
 - Website: https://scott-wonder.vercel.app
 - Github: [@1hanzla100](https://github.com/DevScottMiller)

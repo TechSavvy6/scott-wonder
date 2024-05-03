@@ -1,8 +1,8 @@
 import emoji from 'react-easy-emoji';
 
 export const greetings = {
-  name: 'Scott Miller',
-  title: "Hi all, I'm Scott Miller",
+  name: 'Shaming Pai',
+  title: "Hi all, I'm Shaming Pai",
   description:
     "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
   resumeLink:
@@ -285,17 +285,17 @@ export const showContactUs = true;
 
 // See object prototype on SEO.jsx page
 export const seoData = {
-  title: 'Scott Miller',
+  title: 'Shaming Pai',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Scott Miller',
+  author: 'Shaming Pai',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
   url: 'https://scott-wonder.vercel.app/',
   keywords: [
     'Scott',
-    'Scott Miller',
+    'Shaming Pai',
     'Portfolio',
     'Scott Portfolio ',
-    'Scott Miller Portfolio',
+    'Shaming Pai Portfolio',
   ],
 };
